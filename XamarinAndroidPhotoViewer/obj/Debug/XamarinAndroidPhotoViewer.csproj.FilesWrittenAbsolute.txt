@@ -1,0 +1,17 @@
+/Users/CubicArt/newXamTut/XamarinAndroidPhotoViewer/XamarinAndroidPhotoViewer/obj/Debug/MonoAndroid,Version=v4.4.87.AssemblyAttribute.cs
+/Users/CubicArt/newXamTut/XamarinAndroidPhotoViewer/XamarinAndroidPhotoViewer/bin/Debug/XamarinAndroidPhotoViewer.dll.mdb
+/Users/CubicArt/newXamTut/XamarinAndroidPhotoViewer/XamarinAndroidPhotoViewer/bin/Debug/XamarinAndroidPhotoViewer.dll
+/Users/CubicArt/newXamTut/XamarinAndroidPhotoViewer/XamarinAndroidPhotoViewer/bin/Debug/XamarinAndroidPhotoViewer.XamarinAndroidPhotoViewer.apk
+/Users/CubicArt/newXamTut/XamarinAndroidPhotoViewer/XamarinAndroidPhotoViewer/obj/Debug/android/bin/XamarinAndroidPhotoViewer.XamarinAndroidPhotoViewer.apk
+/Users/CubicArt/newXamTut/XamarinAndroidPhotoViewer/XamarinAndroidPhotoViewer/obj/Debug/res/layout/main.xml
+/Users/CubicArt/newXamTut/XamarinAndroidPhotoViewer/XamarinAndroidPhotoViewer/obj/Debug/res/values/strings.xml
+/Users/CubicArt/newXamTut/XamarinAndroidPhotoViewer/XamarinAndroidPhotoViewer/obj/Debug/res/drawable/icon.png
+/Users/CubicArt/newXamTut/XamarinAndroidPhotoViewer/XamarinAndroidPhotoViewer/obj/Debug/R.cs.flag
+/Users/CubicArt/newXamTut/XamarinAndroidPhotoViewer/XamarinAndroidPhotoViewer/bin/Debug/XamarinAndroidPhotoViewer.XamarinAndroidPhotoViewer-Signed.apk
+/Users/CubicArt/newXamTut/XamarinAndroidPhotoViewer/XamarinAndroidPhotoViewer/obj/Debug/uploadflags.txt
+/Users/CubicArt/newXamTut/XamarinAndroidPhotoViewer/XamarinAndroidPhotoViewer/obj/Debug/XamarinAndroidPhotoViewer.dll
+/Users/CubicArt/newXamTut/XamarinAndroidPhotoViewer/XamarinAndroidPhotoViewer/obj/Debug/XamarinAndroidPhotoViewer.dll.mdb
+/Users/CubicArt/newXamTut/XamarinAndroidPhotoViewer/XamarinAndroidPhotoViewer/bin/Debug/Xamarin.Android.Support.v13.dll
+/Users/CubicArt/newXamTut/XamarinAndroidPhotoViewer/XamarinAndroidPhotoViewer/bin/Debug/Xamarin.Android.Support.v4.dll
+/Users/CubicArt/newXamTut/XamarinAndroidPhotoViewer/XamarinAndroidPhotoViewer/obj/Debug/res/drawable/wallpaper.jpg
+/Users/CubicArt/newXamTut/XamarinAndroidPhotoViewer/XamarinAndroidPhotoViewer/obj/Debug/res/menu/main_menu.xml

@@ -1,0 +1,3 @@
+/Users/CubicArt/newXamTut/XamarinAndroidPhotoViewer/XamarinAndroidPhotoViewer/bin/Debug/XamarinAndroidPhotoViewer.dll
+/Users/CubicArt/newXamTut/XamarinAndroidPhotoViewer/packages/Xamarin.Android.Support.v13.20.0.0.4/lib/MonoAndroid32/Xamarin.Android.Support.v13.dll
+/Users/CubicArt/newXamTut/XamarinAndroidPhotoViewer/packages/Xamarin.Android.Support.v4.20.0.0.4/lib/MonoAndroid32/Xamarin.Android.Support.v4.dll
