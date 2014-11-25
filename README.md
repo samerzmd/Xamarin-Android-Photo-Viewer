@@ -46,7 +46,7 @@ protected override void OnCreate (Bundle bundle)
 		}
 
 
-// If you later call mImageView.setImageDrawable/setImageBitmap/setImageResource/etc then you just need to call
+// If you later call mImageView.SetImageDrawable/SetImageBitmap/SetImageResource/etc then you just need to call
 mAttacher.Update();
 ```
 
